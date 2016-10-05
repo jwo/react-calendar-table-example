@@ -3,6 +3,8 @@ Calendar Example in React
 
 I wanted a way to display a calendar table (not a popup) in React. There's nothing earth shattering here.
 
+[Live Demo](http://jessewolgamott.com/react-calendar-table-example/)
+
 ![example](example.gif)
 
 How to Use
