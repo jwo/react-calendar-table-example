@@ -96,6 +96,14 @@ This uses:
 3. left-pad
 4. moment-calendar-2
 
+
+TODOS:
+------
+
+1. Use this as an excuse to learn Jest for JS testing
+1. Add ability to add event to the calendar (onClick for day)
+1. Add ability to pass list of events for each day to render
+
 LICENSE
 -------
 The MIT License (MIT)
